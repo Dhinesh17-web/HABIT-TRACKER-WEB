@@ -1,0 +1,15 @@
+{
+  "short_name": "Habit Harbor",
+  "name": "Habit Harbor",
+  "icons": [
+    {
+      "src": "habitmark.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f3d3e",
+  "background_color": "#f7f4ef"
+}
